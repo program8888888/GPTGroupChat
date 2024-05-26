@@ -2,6 +2,8 @@ Welcome to GPTGroupChat App
 
 Introducing GPTGroupChat – your one-stop solution for seamless communication with multiple GPT chat systems in one cohesive platform. Designed with efficiency and convenience in mind, this WinForm application empowers users to effortlessly interact with various AI models including Gemini, Copilot, and ChatGPT, all within a single intuitive interface.
 
+![Project Logo](GPTGROUPCHAT_.png)
+
 Gone are the days of juggling between different platforms or applications to engage with different AI models. With GPTGroupChat , you have the power to initiate conversations, seek insights, and generate responses from a diverse range of AI personalities, all from the comfort of one screen.
 
 Key Features:

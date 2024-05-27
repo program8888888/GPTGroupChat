@@ -16,3 +16,8 @@ Key Features:
 * Advanced Functionality: Enjoy advanced features such as advance bookmark, unlimited text and more for an enhanced chat experience.
 
 Whether you're a developer seeking insights, a curious enthusiast exploring AI capabilities, or a professional looking to optimize workflow efficiency, GPTGroupChat is your go-to solution for all your AI communication needs. Join the conversation today and experience the power of unified AI interaction like never before!
+
+
+## Watch the Demo Video
+
+[![Watch the video](https://img.youtube.com/vi/6p_kKhomveI/0.jpg)](https://www.youtube.com/watch?v=6p_kKhomveI)
